@@ -19,7 +19,7 @@ namespace c__Training
             
             //Example:2
             float floats = 123.456F;
-            int integer = (int)floats;
+            int integer = (int)floats;//type convesion
             Console.WriteLine(integer);
 
             //Example:3
