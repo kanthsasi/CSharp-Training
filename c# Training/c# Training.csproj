@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>c__Training.Whileloop_Part_2</StartupObject>
+    <StartupObject>c__Training.For_Foreach_loop</StartupObject>
   </PropertyGroup>
   <PropertyGroup />
   <ItemGroup>
@@ -52,9 +52,11 @@
     <Compile Include="Build_in_types.cs" />
     <Compile Include="Common_Operators_in_c#.cs" />
     <Compile Include="Datatype_Conversion.cs" />
+    <Compile Include="For_Foreach_loop.cs" />
     <Compile Include="Hello.cs" />
     <Compile Include="if_else2.cs" />
     <Compile Include="If_statement.cs" />
+    <Compile Include="Methods_in_c#.cs" />
     <Compile Include="Nullable_types.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
