@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace c__Training
 {
@@ -10,8 +6,11 @@ namespace c__Training
     {
         static void Main()
         {
-            int Numbers = 10;
+            int Numbers;
             int Number2 = 20;
+
+            Numbers = 10;
+
             int Result = Numbers + Number2;
             Console.WriteLine("Result:"+Result);
             //Terinary Operator
