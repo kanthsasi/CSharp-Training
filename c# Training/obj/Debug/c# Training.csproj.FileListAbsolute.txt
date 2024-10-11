@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\c# Training\c# Training\bin\Debug\c# Training.exe.config
+C:\Users\Admin\source\repos\c# Training\c# Training\bin\Debug\c# Training.exe
+C:\Users\Admin\source\repos\c# Training\c# Training\bin\Debug\c# Training.pdb
+C:\Users\Admin\source\repos\c# Training\c# Training\obj\Debug\c# Training.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\c# Training\c# Training\obj\Debug\c# Training.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\c# Training\c# Training\obj\Debug\c# Training.exe
+C:\Users\Admin\source\repos\c# Training\c# Training\obj\Debug\c# Training.pdb
+C:\SasiKanth\Training\CSharp-Training\c# Training\bin\Debug\c# Training.exe.config
+C:\SasiKanth\Training\CSharp-Training\c# Training\bin\Debug\c# Training.exe
+C:\SasiKanth\Training\CSharp-Training\c# Training\bin\Debug\c# Training.pdb
+C:\SasiKanth\Training\CSharp-Training\c# Training\obj\Debug\c# Training.csproj.AssemblyReference.cache
+C:\SasiKanth\Training\CSharp-Training\c# Training\obj\Debug\c# Training.csproj.CoreCompileInputs.cache
+C:\SasiKanth\Training\CSharp-Training\c# Training\obj\Debug\c# Training.exe
+C:\SasiKanth\Training\CSharp-Training\c# Training\obj\Debug\c# Training.pdb
