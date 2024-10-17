@@ -39,7 +39,11 @@ namespace c__Training
         static void Main()
         {
             Employee[] t = new Employee[4];
-            t[0] = new Employee();
+            t[0] = new Employee()
+            {
+                fname="Sasi",
+                lname="Kanth"
+            };
             t[1] = new FullTimeEmployee();
             t[2] = new PartTimeEmployee();
             t[3] = new TemporaryEmployee();

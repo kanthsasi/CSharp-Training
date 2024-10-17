@@ -13,7 +13,7 @@ namespace c__Training
             private int _id;
             private string _name;
             private int _passmark=35;
-            public string City { get; set; }//---->Auto Implement Properties,Write in single line simply.
+            public string City { get; set; }//---->Auto Implement Properties,Writen in single line simply.
             //It was introduced in c# 3.0.
 
             public int id
