@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSharp_Training3.Class1</StartupObject>
+    <StartupObject>CSharp_Training3.FUNC_Delegate</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Anonymous_Method.cs" />
     <Compile Include="Array_To_Dictonay.cs" />
     <Compile Include="Array_To_List.cs" />
     <Compile Include="Class1.cs" />
@@ -58,6 +59,7 @@
     <Compile Include="Dictonary_TryGetValue.cs" />
     <Compile Include="Diff_between_String_and_StringBuilders.cs" />
     <Compile Include="Diff_Betwn_ConvertToString_ToString.cs" />
+    <Compile Include="FUNC-Delegate.cs" />
     <Compile Include="Generic-Queue-Collection.cs" />
     <Compile Include="Generic-Stack_Collection.cs" />
     <Compile Include="Generics.cs" />
@@ -72,7 +74,9 @@
     <Compile Include="Parameterized-Thread.cs" />
     <Compile Include="PASSING_DATA_TO_THE_THREAD_FUNCTION_IN_A_TYPE_SAFE_MANNER.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Protecting_Shared_Resource_in_Multithreading.cs" />
     <Compile Include="Reflection.cs" />
+    <Compile Include="Signifiance-of-Thread_Join-and-Thread_IsAlive.cs" />
     <Compile Include="Some-Useful-Method-of_List_Collection.cs" />
     <Compile Include="Sorting.cs" />
     <Compile Include="Sortng_Complex_List.cs" />
